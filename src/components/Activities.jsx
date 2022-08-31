@@ -78,7 +78,7 @@ const Activities = () => {
                 Testimonials
             </p>
             <table class="min-w-full shadow-md rounded">
-                <tbody class="divide-y divide-gray-100">
+                <tbody class="divide-y lg:divide-gray-100">
                     <tr>
                     <td class="p-4">Friends of Credence</td>
                     <td class="p-4">Mr. Richard Amuzu</td>
@@ -86,7 +86,7 @@ const Activities = () => {
 
                     <tr>
                     <td class="p-4">Customer Reps</td>
-                    <td class="p-4">Mr. Frank Agyazpong</td>
+                    <td class="p-4">Mr. Frank Agyapong</td>
                     </tr>
 
                     <tr>
