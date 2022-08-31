@@ -1,13 +1,32 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&display=swap');
+
+@layer base{
+    body{
+        @apply font-[Raleway]
+    }
+    li{
+        @apply px-4;
+        @apply cursor-pointer
+    }
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.section-activities{
+  background-image: linear-gradient(90deg,#e90c13 0%,rgba(30,71,117,0.88) 100%)!important;
+}
+
+.section-about{
+  background-image: linear-gradient(90deg,#e90c13 0%,rgba(30,71,117,0.88) 100%)!important;
+}
+
+.blue-back{
+  background-image: linear-gradient(90deg,#0a2f6e 0%,rgba(205, 27, 27, 0.98) 100%)!important;
+}
+
+.red-back{
+  background-image: linear-gradient(90deg,#e90c13 0%,rgba(30,71,117,0.88) 100%)!important;
+
 }
