@@ -38,3 +38,15 @@
 }
 
 
+  .blinking{
+    animation:blinkingText 2s;
+    animation-iteration-count: 8;
+    opacity: 0.4;
+}
+@keyframes blinkingText{
+    0%{     color: rgb(218, 199, 199);    }
+    49%{    color: rgb(218, 199, 199); }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: rgb(218, 199, 199);    }
+}

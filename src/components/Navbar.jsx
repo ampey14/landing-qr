@@ -24,6 +24,7 @@ const Navbar = () => {
             
         </ul>
 
+        <span className="text-2xl blinking text-gray-300 flex flex-col fixed top-[90%] sm:left-[40%]"> STRICTLY BY INVITAION</span>
         {/* hamburger */}
         <div onClick={handleClick} className='md:hidden z-10'>
             {nav ? <FaTimes /> : <FaBars />}
