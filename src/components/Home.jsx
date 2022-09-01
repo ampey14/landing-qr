@@ -3,9 +3,10 @@ import BannerImg from '../assets/banner_img.png'
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-[70] bg-[#0a053f] pt-10'>
-        <img className='cover' src={BannerImg} alt="BannerImg" />
+    <div name='home' className='w-full mx-auto allblue-back pt-9'>
+        <img className='w-full sm:h-screen' src={BannerImg} alt="BannerImg" style={{opacity: 0.8}}/>
     </div>
+    
   )
 }
 

@@ -10,7 +10,7 @@ const About = () => {
               
                 <div class="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.2)"}}>
                 
-                <a class="text-white" href="https://sell.digistoreafrica.com/">© 2022 Powered by 2022 Digistore Africa</a>
+                <a class="text-white" href="https://sell.digistoreafrica.com/">© 2022 Powered by Digistore Africa</a>
                 </div>
                 
                 

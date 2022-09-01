@@ -13,19 +13,19 @@ const About = () => {
             
             <div className="max-w-[850px] w-full grid grid-cols-1 gap-5 px-4">
                 <div>
-                    <p className='sm:text-left'>
+                    <p className='text-justify'>
                     Credence Micro-credit is a legally registered indigenous micro lending institution licensed by Bank of Ghana BoG under the Non-Banking Financial Institution Act NBFI, ACT 2008(Act 774) to undertake micro credit services to the Ghanaian public. Its head office is located at East Legon, Accra. 
                     </p>
                 </div>
                 
                 <div>
-                    <p className='sm:text-left'>
+                    <p className='text-justify'>
                         Credence started humble operations in 2017 and has evolved as the most preferred, reliable and credible micro lending institution in Ghana. Our products are customer-tailored and centered with excellent customer care. Our clients are our most important asset and we treat them as such. Technology has been our driving force in delivering an outstanding customer service to our cherished customers. 
                     </p>
                 </div>
                 
                 <div>
-                    <p className='sm:text-left'>
+                    <p className='text-justify'>
                     At Credence, we seek to consolidate on our brand as the most preferred and credible in the micro credit industry in Ghana. Credence has the most amazing, resilient, astute and outstanding team of professionals who bring tremendous industry knowledge from broad array of disciplines. Creativity and innovation have been our hall mark. 
                     </p>
                 </div>
