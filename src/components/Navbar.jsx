@@ -15,16 +15,18 @@ const Navbar = () => {
         </a>
 
         {/* menu */}
-        <ul className='hidden md:flex mx-auto'>
+        <ul className='md:flex mx-auto'>
             <li>
                 <Link to='home' smooth={true} duration={500}>
-                    <span className='red-back text-2xl'>OFFICIAL 5TH ANNIVERSARY | </span><span className='blue-back text-2xl'>BOOK LAUNCH PROGRAM OUTLINE</span>
+                <div className='flex'>
+                    <span className='blue-back sm:text-3xl blinking tracking-wide'> STRICTLY BY INVITATION 
+                    </span>
+
+                </div>
                 </Link>
             </li>
             
         </ul>
-
-        <span className="text-2xl blinking text-gray-300 flex flex-col fixed top-[90%] sm:left-[40%]"> STRICTLY BY INVITAION</span>
         {/* hamburger */}
         <div onClick={handleClick} className='md:hidden z-10'>
             {nav ? <FaTimes /> : <FaBars />}
