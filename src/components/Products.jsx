@@ -2,7 +2,7 @@ import React from 'react';
 import Img1 from '../assets/img1.jpeg';
 import Img2 from '../assets/img2.jpeg';
 import Img4 from '../assets/img4.jpeg';
-import Img6 from '../assets/img6.jpg';
+import Img6 from '../assets/img6.jpeg';
 import Img8 from '../assets/img8.png';
 import Img9 from '../assets/img9.png';
 import Img10 from '../assets/img10.jpeg';
@@ -15,7 +15,7 @@ const Products = () => {
     <div name='products' className='w-full h-full text-gray-300 bg-[#0a192f]'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col w-full h-full'>
             <div className='pb-8 text-center'>
-                <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Our Products</p>
+                <p className='text-4xl font-bold inline border-b-4 text-gray-300 borderwidth'>Our Products</p>
                 <p className='py-6 text-xl'>Check some of our products</p>
             </div>
 

@@ -49,3 +49,17 @@
     99%{    color:transparent;  }
     100%{   color: rgb(250, 250, 250);    }
 }
+
+.borderwidth{
+  border-bottom: 4px solid white;
+  width: 200px;
+  border-image: linear-gradient(45deg, rgb(249, 249, 249), rgb(255, 0, 0)) 1
+
+}
+
+
+.borderWidth{
+  border-bottom: 4px solid white;
+  width: 190px;
+  border-image: linear-gradient(45deg, rgb(249, 249, 249), rgb(255, 0, 0)) 1
+}
