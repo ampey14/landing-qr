@@ -92,6 +92,15 @@ const Activities = () => {
                     <td class="p-4 text-left">Customer Reps</td>
                     <td class="p-4">Mr. Frank Agyapong</td>
                     </tr>
+                </tbody>
+            </ table>
+
+
+            <p className='py-5'>
+                
+            </p>
+            <table class="min-w-full shadow-md rounded">
+                <tbody class="divide-y lg:divide-gray-100">
 
                     <tr>
                     <td class="p-4 text-left">Unveiling of New Products/Service Lines</td>
@@ -100,7 +109,7 @@ const Activities = () => {
 
                     <tr>
                     <td class="p-4 text-left">Awards & Acknowledgements</td>
-                    <td class="p-4">Invited Dignitaries</td>
+                    <td class="p-4">Adeline Quarshie</td>
                     </tr>
 
                     <tr>
@@ -125,7 +134,7 @@ const Activities = () => {
 
                     <tr>
                     <td class="p-4 text-left">Song Rendition</td>
-                    <td class="p-4">Minstrel Priscila Gbedjah</td>
+                    <td class="p-4">Minstrel Priscilla Gedjah</td>
                     </tr>
 
                     <tr>

@@ -7,9 +7,10 @@ const About = () => {
             
             
             <div className="w-full pt-7">
-              
                 <div class="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.2)"}}>
-                
+                <div className='text-xl py-3'>
+                  Contact Us: 024 - 442 - 7440 <span className='text-white m-4 animate-spin'> | </span> info@credencemicrocredit.com
+                </div>
                 <a class="text-white" href="https://sell.digistoreafrica.com/">© 2022 Powered by Digistore Africa</a>
                 </div>
                 
