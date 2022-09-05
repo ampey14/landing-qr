@@ -3,8 +3,7 @@ import Img1 from '../assets/img1.jpeg';
 import Img2 from '../assets/img2.jpeg';
 import Img4 from '../assets/img4.jpeg';
 import Img6 from '../assets/img6.jpeg';
-import Img8 from '../assets/img8.png';
-import Img9 from '../assets/img9.png';
+import Img7 from '../assets/img7.jpg';
 import Img10 from '../assets/img10.jpeg';
 
 
@@ -91,10 +90,8 @@ const Products = () => {
         
                 </div>
                 {/* 6 */}
-                <div className='rounded grid grid-flow-row lg:max-w-[250px] lg:h-[100px] mx-auto'>
-                    <img src={Img8} alt="" />
-                    <br />
-                    <img src={Img9} alt="" />
+                <div className='rounded grid grid-flow-row lg:max-w-[full] lg:h-[screen] mx-auto'>
+                    <img src={Img7} alt="" />
                     
 
                 </div>

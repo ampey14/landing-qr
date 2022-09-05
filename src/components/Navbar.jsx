@@ -18,11 +18,6 @@ const Navbar = () => {
         <ul className='md:flex mx-auto'>
             <li>
                 <Link to='home' smooth={true} duration={500}>
-                <div className='flex'>
-                    <span className='blue-back sm:text-3xl blinking tracking-wide'> STRICTLY BY INVITATION 
-                    </span>
-
-                </div>
                 </Link>
             </li>
             
