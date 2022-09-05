@@ -154,13 +154,8 @@ const Activities = () => {
                     <td class="p-4"></td>
                     </tr>
 
-                    <tr>
-                    <td class="p-4 text-left">Departure</td>
-                    </tr>
-
                 </tbody>
             </table>
-            <br />
             <br />
 
             <div>
@@ -183,9 +178,13 @@ const Activities = () => {
                     <td class="p-4 text-right">Mr. Frank Agyapong</td>
                     </tr>
                 
+
+                    <tr>
+                    <td class="p-4 text-left">Departure</td>
+                    </tr>
+                
                 </tbody>
             </table>
-           
             </div>            
         </div>
     </div>
