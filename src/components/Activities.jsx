@@ -9,7 +9,7 @@ const Activities = () => {
                 <div>
                     <p className='text-xl lg:text-center py-3'><span className='font-bold'>Anniversary Theme: </span> <span>"Credibility in World Class Service: Our Roots, Our Growth"</span></p>
                     <p className='text-xl lg:text-center py-3'><span className='font-bold'>Date and Time: </span> <span>Saturday, 10th September 2022 at 3:00pm</span></p>
-                    <p className='text-xl lg:text-center py-3 pb-12'><span className='font-bold'>Venue: </span><span>Sui Generics, East Legon, Digital Address: GA-414-1995; Nii Kotey Baale Rd.</span></p>
+                    <p className='text-xl lg:text-center py-3 pb-12'><span className='font-bold'>Venue: </span><span>Sui Generics, East Legon. <span className='font-bold'>Digital Address:</span> <span className='font-italic'>GA-414-1995;</span> Nii Kotey Baale Rd.</span></p>
                 </div>
             </div>
             <div className='w-full text-center'>
