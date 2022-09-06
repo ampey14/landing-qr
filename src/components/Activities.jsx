@@ -185,7 +185,7 @@ const Activities = () => {
 
                     <tr>
                     <td class="p-4 text-left">Closing Prayer</td>
-                    <td class="p-4 lg:text-right">Rev. Elton Dusi</td>
+                    <td class="p-4 text-right">Rev. Elton Dusi</td>
                     </tr>
 
                     <tr>
