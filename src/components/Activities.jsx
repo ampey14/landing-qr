@@ -144,10 +144,6 @@ const Activities = () => {
                     <td class="p-4 lg:text-right">Ms. Gertrude Koomson</td>
                     </tr>
 
-                    <tr>
-                    <td class="p-4 text-left">Closing Prayer</td>
-                    <td class="p-4 lg:text-right">Rev. Elton Dusi</td>
-                    </tr>
 
                     <tr>
                     <td class="p-4 text-left">Musical Interlude/Networking</td>
@@ -179,12 +175,27 @@ const Activities = () => {
                     </tr>
                 
 
-                    <tr>
-                    <td class="p-4 text-left">Departure</td>
-                    </tr>
                 
                 </tbody>
             </table>
+            <br/>
+
+            <table class="min-w-full shadow-md rounded">
+                <tbody class="divide-y divide-gray-100">
+
+                    <tr>
+                    <td class="p-4 text-left">Closing Prayer</td>
+                    <td class="p-4 lg:text-right">Rev. Elton Dusi</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Departure</td>
+                    </tr>
+
+                </tbody>
+                
+            </table>
+
             </div>            
         </div>
     </div>
