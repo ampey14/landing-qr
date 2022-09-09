@@ -27,12 +27,12 @@ const Activities = () => {
                 <tbody class="divide-y divide-gray-300">
                     <tr>
                     <td class="p-4 text-left">Arrival of Guests & Dignitaries</td>
-                    <td class="p-4 text-right">Musical Interlude</td>
+                    <td class="p-4 lg:text-right">Musical Interlude</td>
                     </tr>
 
                     <tr>
                     <td class="p-4 text-left">Unveiling the New Phase of Credence</td>
-                    <td class="p-4 text-right">Credence Micro Credit HQ</td>
+                    <td class="p-4 lg:text-right">Credence Micro Credit HQ</td>
                     </tr>
                 </tbody>
             </table>
@@ -51,7 +51,7 @@ const Activities = () => {
 
                     <tr>
                     <td class="p-4 text-left">Acknowledgement of<br /> Dignitaries</td>
-                    <td class="p-4 lg:text-right">Ms. Jennifer J. Danquah</td>
+                    <td class="p-4 lg:text-right">Kwaku Ofosuhene</td>
                     </tr>
 
                     <tr>
@@ -65,62 +65,41 @@ const Activities = () => {
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Chairperson's address</td>
+                    <td class="p-4 text-left">Chairperson's Acceptance</td>
                     <td class="p-4 lg:text-right">Chairperson</td>
                     </tr>
                     
                     <tr>
-                    <td class="p-4 text-left">Credence Documentary</td>
+                    <td class="p-4 text-left">Introduction of Advisory <br /> Committee</td>
                     <td class="p-4 lg:text-right">Media</td>
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Anniversary Speech</td>
+                    <td class="p-4 text-left">Anniversary Address</td>
                     <td class="p-4 lg:text-right">Mr. Ivan Avereyireh</td>
                     </tr>
+                    <br />
+                </tbody>
+            </table>
+            <br />
 
+            <p className='text-3xl text-left px-3 borderWidth'>
+                Testimonials
+            </p>
+            <br/>
+            <table class="min-w-full shadow-md rounded">
+                <tbody class="divide-y divide-gray-100">
                     <tr>
-                    <td class="p-4 text-left">Unveiling of New Products/Service Lines</td>
-                    <td class="p-4 lg:text-right">Team Credence</td>
+                    <td class="p-4 text-left">Friends of Credence</td>
+                    <td class="p-4 lg:text-right">Mr. Richard Amuzu</td>
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Awards & Acknowledgements</td>
-                    <td class="p-4 lg:text-right">Ms. Adeline Quarshie</td>
+                    <td class="p-4 text-left">Customer Reps</td>
+                    <td class="p-4 lg:text-right">Mr. Frank Agyapong</td>
                     </tr>
-
                     <tr>
-                    <td class="p-4 text-left">Musical Interlude</td>
-                    <td class="p-4 lg:text-right">Music Band</td>
-                    </tr>
-                    
-                    <tr>
-                    <td class="p-4 text-left">Profile Reading of Author</td>
-                    <td class="p-4 lg:text-right">Ms. Adelina Qaurshie</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Testimonial of Author</td>
-                    <td class="p-4 lg:text-right">Hon Albert Nakotey Tetteh</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Purpose/Motivation/Synopsis of the Book</td>
-                    <td class="p-4 lg:text-right">Author</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Song Rendition</td>
-                    <td class="p-4 lg:text-right">Minstrel Priscilla Gedjah</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Prayer for the Author</td>
-                    <td class="p-4 lg:text-right">Apostle Dan Clad</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Unveiling of the First Autographed Copies</td>
+                    <td class="p-4 text-left">Unveiling the first Autograph<br /> Copies / Auction </td>
                     <td class="p-4 lg:text-right">Apostle Dan Clad</td>
                     </tr>
 
@@ -132,6 +111,57 @@ const Activities = () => {
                     <tr>
                     <td class="p-4 text-left">Cutting of Anniversary Cake</td>
                     <td class="p-4 lg:text-right">Bishop Elizabeth Clad</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Unveiling of New Products/<br /> Service Lines</td>
+                    <td class="p-4 lg:text-right">Team Credence</td>
+                    </tr>
+
+                
+                </tbody>
+            </table>
+            
+            <table class="min-w-full shadow-md rounded">
+                <tbody class="divide-y divide-gray-100">
+                    <tr>
+                    <td class="p-4 text-left">Presentation of Awards /<br /> Acknowledgements</td>
+                    <td class="p-4 lg:text-right">Ms. Adeline Quarshie</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Musical Interlude</td>
+                    <td class="p-4 lg:text-right">Music Band</td>
+                    </tr>
+                    
+                    <tr>
+                    <td class="p-4 text-left">Profile Reading of Author</td>
+                    <td class="p-4 lg:text-right">Ms. Adelina Quarshie</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Testimonial of Author</td>
+                    <td class="p-4 lg:text-right">Hon Albert Nakotey Tetteh</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Purpose/Motivation / <br />Synopsis of the Book</td>
+                    <td class="p-4 lg:text-right">Author</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Song Rendition</td>
+                    <td class="p-4 lg:text-right">Minstrel Priscilla Gedjah</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Business Sermon</td>
+                    <td class="p-4 lg:text-right">Apostle Dan Clad</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Prayer for the Author</td>
+                    <td class="p-4 lg:text-right">Apostle Dan Clad</td>
                     </tr>
 
                     <tr>
@@ -154,38 +184,12 @@ const Activities = () => {
             </table>
             <br />
 
-            <div>
-
-            </div>
-            <p className='text-3xl text-left px-3 borderWidth'>
-                Testimonials
-            </p>
-            <br />
-            <table class="min-w-full shadow-md rounded">
-                <tbody class="divide-y divide-gray-100">
-
-                    <tr>
-                    <td class="p-4 text-left">Friends of Credence</td>
-                    <td class="p-4 text-right">Mr. Richard Amuzu</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Customer Reps</td>
-                    <td class="p-4 text-right">Mr. Frank Agyapong</td>
-                    </tr>
-                
-
-                
-                </tbody>
-            </table>
-            <br/>
-
             <table class="min-w-full shadow-md rounded">
                 <tbody class="divide-y divide-gray-100">
 
                     <tr>
                     <td class="p-4 text-left">Closing Prayer</td>
-                    <td class="p-4 text-right">Rev. Elton Dusi</td>
+                    <td class="p-4 lg:text-right">Rev. Elton Dusi</td>
                     </tr>
 
                     <tr>
