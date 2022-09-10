@@ -46,32 +46,23 @@ const Activities = () => {
                 <tbody class="divide-y divide-gray-100">
                     <tr>
                     <td class="p-4 text-left">Musical Interlude</td>
-                    <td class="p-4 lg:text-right">Musical Band</td>
+                    <td class="p-4 lg:text-right">Baseline Entertainment</td>
                     </tr>
 
                     <tr>
                     <td class="p-4 text-left">Acknowledgement of<br /> Dignitaries</td>
-                    <td class="p-4 lg:text-right">Kwaku Ofosuhene</td>
+                    <td class="p-4 lg:text-right">Mr. Kwaku Ofosuhene</td>
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Musical Interlude</td>
-                    <td class="p-4 lg:text-right">Musical Band</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Introduction of Chairperson</td>
+                    <td class="p-4 text-left">Introduction of Chairperson /<br /> Advisory Comittee</td>
                     <td class="p-4 lg:text-right">Ms. Odelia Ntiamoah</td>
                     </tr>
 
+
                     <tr>
-                    <td class="p-4 text-left">Chairperson's Acceptance</td>
+                    <td class="p-4 text-left">Chairperson's Address</td>
                     <td class="p-4 lg:text-right">Chairperson</td>
-                    </tr>
-                    
-                    <tr>
-                    <td class="p-4 text-left">Introduction of Advisory <br /> Committee</td>
-                    <td class="p-4 lg:text-right">MC</td>
                     </tr>
 
                     <tr>
@@ -98,13 +89,13 @@ const Activities = () => {
                     <td class="p-4 lg:text-right">Mr. Frank Agyapong</td>
                     </tr>
                     <tr>
-                    <td class="p-4 text-left">Unveiling the first Autograph<br /> Copies / Auction </td>
-                    <td class="p-4 lg:text-right">Apostle Dan Clad</td>
+                    <td class="p-4 text-left">Unveiling of New Services </td>
+                    <td class="p-4 lg:text-right">Team Credence</td>
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Musical Interlude</td>
-                    <td class="p-4 lg:text-right">Music Band</td>
+                    <td class="p-4 text-left">Special Acknowledgement</td>
+                    <td class="p-4 lg:text-right">Invited Dignitaries</td>
                     </tr>
 
                     <tr>
@@ -113,20 +104,20 @@ const Activities = () => {
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Unveiling of New Products/<br /> Service Lines</td>
-                    <td class="p-4 lg:text-right">Team Credence</td>
-                    </tr>
-
-                    <tr>
-                    <td class="p-4 text-left">Presentation of Awards <br /> <br /> <br /> Acknowledgements</td>
-                    <td class="p-4 lg:text-right">Dignitaries <br /> <br/>Ms. Adeline Quarshie</td>
-                    </tr>
-
-                    <tr>
                     <td class="p-4 text-left">Musical Interlude</td>
-                    <td class="p-4 lg:text-right">Music Band</td>
+                    <td class="p-4 lg:text-right">Baseline Entertainment</td>
                     </tr>
                     
+                </tbody>
+            </table>
+            <br />
+            <br />
+            <p className='text-3xl text-center'>
+                Part Three
+            </p>
+            <table class="min-w-full shadow-md rounded">
+                <tbody class="divide-y divide-gray-100">
+
                     <tr>
                     <td class="p-4 text-left">Profile Reading of Author</td>
                     <td class="p-4 lg:text-right">Ms. Adelina Quarshie</td>
@@ -138,7 +129,7 @@ const Activities = () => {
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Purpose/Motivation / <br />Synopsis of the Book</td>
+                    <td class="p-4 text-left">Purpose/Motivation / <br />Synopsis of Book</td>
                     <td class="p-4 lg:text-right">Author</td>
                     </tr>
 
@@ -148,13 +139,23 @@ const Activities = () => {
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Business Sermon</td>
+                    <td class="p-4 text-left">Word to go</td>
                     <td class="p-4 lg:text-right">Apostle Dan Clad</td>
                     </tr>
 
                     <tr>
                     <td class="p-4 text-left">Prayer for the Author</td>
                     <td class="p-4 lg:text-right">Apostle Dan Clad</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Unveiling & Auctioning of <br />the First Autographed Copies</td>
+                    <td class="p-4 lg:text-right">Apostle Dan Clad</td>
+                    </tr>
+
+                    <tr>
+                    <td class="p-4 text-left">Musical Interlude</td>
+                    <td class="p-4 lg:text-right">Baseline Entertainment</td>
                     </tr>
 
                     <tr>
@@ -167,19 +168,6 @@ const Activities = () => {
                     <td class="p-4 lg:text-right">Ms. Gertrude Koomson</td>
                     </tr>
 
-
-                    <tr>
-                    <td class="p-4 text-left">Musical Interlude/Networking</td>
-                    <td class="p-4"></td>
-                    </tr>
-
-                </tbody>
-            </table>
-            <br />
-
-            <table class="min-w-full shadow-md rounded">
-                <tbody class="divide-y divide-gray-100">
-
                     <tr>
                     <td class="p-4 text-left">Closing Prayer</td>
                     <td class="p-4 lg:text-right">Rev. Elton Dusi</td>
@@ -190,7 +178,6 @@ const Activities = () => {
                     </tr>
 
                 </tbody>
-                
             </table>
 
             </div>            
