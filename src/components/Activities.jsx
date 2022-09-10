@@ -71,7 +71,7 @@ const Activities = () => {
                     
                     <tr>
                     <td class="p-4 text-left">Introduction of Advisory <br /> Committee</td>
-                    <td class="p-4 lg:text-right">Media</td>
+                    <td class="p-4 lg:text-right">MC</td>
                     </tr>
 
                     <tr>
