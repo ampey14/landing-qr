@@ -60,7 +60,7 @@
 
 .borderWidth{
   border-bottom: 4px solid white;
-  width: 190px;
+  width: 130px;
   border-image: linear-gradient(45deg, rgb(249, 249, 249), rgb(255, 0, 0)) 1
 }
 

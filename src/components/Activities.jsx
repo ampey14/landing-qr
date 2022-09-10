@@ -118,7 +118,7 @@ const Activities = () => {
                     </tr>
 
                     <tr>
-                    <td class="p-4 text-left">Presentation of Awards <br /> <br /> Acknowledgements</td>
+                    <td class="p-4 text-left">Presentation of Awards <br /> <br /> <br /> Acknowledgements</td>
                     <td class="p-4 lg:text-right">Dignitaries <br /> <br/>Ms. Adeline Quarshie</td>
                     </tr>
 
