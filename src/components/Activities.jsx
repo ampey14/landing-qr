@@ -83,10 +83,9 @@ const Activities = () => {
             </table>
             <br />
 
-            <p className='text-3xl text-left px-3 borderWidth'>
+            <p className='text-xl text-left px-3 borderWidth'>
                 Testimonials
             </p>
-            <br/>
             <table class="min-w-full shadow-md rounded">
                 <tbody class="divide-y divide-gray-100">
                     <tr>
@@ -118,15 +117,9 @@ const Activities = () => {
                     <td class="p-4 lg:text-right">Team Credence</td>
                     </tr>
 
-                
-                </tbody>
-            </table>
-            
-            <table class="min-w-full shadow-md rounded">
-                <tbody class="divide-y divide-gray-100">
                     <tr>
-                    <td class="p-4 text-left">Presentation of Awards /<br /> Acknowledgements</td>
-                    <td class="p-4 lg:text-right">Ms. Adeline Quarshie</td>
+                    <td class="p-4 text-left">Presentation of Awards <br /> <br /> Acknowledgements</td>
+                    <td class="p-4 lg:text-right">Dignitaries <br /> <br/>Ms. Adeline Quarshie</td>
                     </tr>
 
                     <tr>
